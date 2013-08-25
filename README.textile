@@ -1,0 +1,5 @@
+h3. Earphone Store
+
+A simple earphone store web application that connects to a MySQL database and then uses the information received to populate a table of items. The user is then able to add items to their cart, check out, and then receive an email for the status of their order.
+
+!screen.png!
